@@ -1,0 +1,29 @@
+body {
+    background-color: #5252e2;
+}
+
+.main{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+
+.label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 62px;
+    color: white;
+}
+
+.buttons button {
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    border-radius: 4px;
+    padding: 12px;
+    background-color: #333;
+    color: yellow;
+    cursor: pointer;
+}
